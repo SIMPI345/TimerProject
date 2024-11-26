@@ -1,0 +1,27 @@
+H1{
+    text-align: center;
+
+    }
+#contener{
+    border-radius:2px;
+
+}
+#button{
+    background-color: blanchedalmond;
+    display: flex;padding: 20px;
+    margin: 20px;
+}
+#start{
+    background-color: red;
+}
+    #stop{
+        background-color: green;
+    }
+# reset{
+    background-color: gray;
+}
+
+
+
+
+
